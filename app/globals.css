@@ -223,11 +223,11 @@ body::before {
 }
 
 .section-2 {
-  background-image: url("/public/1168054.jpg");
+  background-image: url("/1168054.jpg");
 }
 
 .section-3 {
-  background-image: url("https://assets.codepen.io/7558/blue-orange-002.jpg");
+  background-image: url("/sun.jpg");
 }
 
 /* ════════════════════════════════════════════════════════════════

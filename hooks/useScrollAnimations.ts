@@ -24,7 +24,7 @@ if (typeof window !== "undefined") {
 }
 
 interface UseScrollAnimationsProps {
-  glowCircleRef: RefObject<HTMLDivElement>;
+  glowCircleRef: RefObject<HTMLDivElement | null>;
   sectionsRef: RefObject<NodeListOf<Element>>;
   enabled?: boolean;
 }
