@@ -6,7 +6,8 @@
   
   <!-- PROJECT BANNER PLACEHOLDER -->
   
-  ![Demo Preview](https://via.placeholder.com/800x400/0a0a0a/ffffff?text=Space+Industries+Demo)
+  ![Demo Preview](https://github.com/user-attachments/assets/eb42ce5b-beda-418d-8726-ccd30720801d)
+
   
   <!-- BADGES -->
   ![Next.js](https://img.shields.io/badge/Next.js-16.0.1-black?style=for-the-badge&logo=nextdotjs)
